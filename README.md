@@ -18,12 +18,12 @@ Satu Korhonen
 
 ## Preview images
 Situation (rolling average for 24h) in total of all points selected for this app:
-![](rolling_sum.jpg)
+![](koodit/rolling_sum.jpg)
 
 Situation (rolling average for 24h) at point 248 - Salo Muurla 
-![](rolling_248.jpg)
+![](koodit/rolling_248.jpg)
 
 Situation (rolling average for 24h) at point 1431 - Tornio
-![](rolling_1431.jpg)
+![](koodit/rolling_1431.jpg)
 
 
