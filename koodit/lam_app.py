@@ -20,6 +20,8 @@ external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
 
 app = dash.Dash(__name__, external_stylesheets=external_stylesheets)
 
+server = app.server
+
 markdown_text = '''
 LAM-data from various points in Finland measuring the amount of traffic.
 Please choose a LAM-point from the dropdown menu to see the amount of
