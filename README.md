@@ -17,6 +17,7 @@ Dash
 Satu Korhonen
 
 ## Preview images
+
 Situation (rolling average for 24h) in total of all points selected for this app:
 ![](koodit/rolling_sum.jpg)
 
@@ -26,4 +27,7 @@ Situation (rolling average for 24h) at point 248 - Salo Muurla
 Situation (rolling average for 24h) at point 1431 - Tornio
 ![](koodit/rolling_1431.jpg)
 
+## Sources:
 
+Plotly Dash Tutorial: https://dash.plotly.com/installation
+My own coursework at 30 ects Data analytics and artificial intelligence
