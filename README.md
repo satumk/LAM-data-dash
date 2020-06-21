@@ -8,9 +8,9 @@ I used this data previously in my studies in data analytics and artificial intel
 
 ## Built With
 
-Python
-Pandas
-Dash
+* Python
+* Pandas
+* Dash
 
 ## Author
 
@@ -29,5 +29,5 @@ Situation (rolling average for 24h) at point 1431 - Tornio
 
 ## Sources:
 
-Plotly Dash Tutorial: https://dash.plotly.com/installation
-My own coursework at 30 ects Data analytics and artificial intelligence
+* Plotly Dash Tutorial: https://dash.plotly.com/installation
+* My own coursework at 30 ects Data analytics and artificial intelligence
